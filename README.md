@@ -12,13 +12,13 @@
    
    
 * Insights  
-- Analysis of the data revealed that the number of trips increased from 1.5 million in 2017 to almost 2 million in 2018. 
-- The peak months for bike usage were July, August, and September.
-- Five busiest stations were York St/Queens Quay W Station, Union Station, Bay St/Queens Quay W Station, Bay St/Wellesley W Station, and Bay St/College Station.
-- Casual members used bikes more frequently in July and August, on weekends, and around 5 pm every day. 
+    - Analysis of the data revealed that the number of trips increased from 1.5 million in 2017 to almost 2 million in 2018. 
+    - The peak months for bike usage were July, August, and September.
+    - Five busiest stations were York St/Queens Quay W Station, Union Station, Bay St/Queens Quay W Station, Bay St/Wellesley W Station, and Bay St/College Station.
+    - Casual members used bikes more frequently in July and August, on weekends, and around 5 pm every day. 
 
 
 * Recommendation 
-- Increase bike volume for 5 busiest stations which helps more people to use the service, which improves the revenue.  
-- Have a plan for bike distribution and staff for the peak month in July, August, September. 
-- Launch a new membership which is available from March to October to encourage the Casual members to increase their frequency of using the service. 
+    - Increase bike volume for 5 busiest stations which helps more people to use the service, which improves the revenue.  
+    - Have a plan for bike distribution and staff for the peak month in July, August, September. 
+    - Launch a new membership which is available from March to October to encourage the Casual members to increase their frequency of using the service. 
